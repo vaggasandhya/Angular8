@@ -7,8 +7,8 @@ Steps to Install Assignment
                :toy>ng serve --open --port 1233
     Create new Toy 
              
- 3.MongoDB: create Databse 
-              Databse Name: dbtoysapi
+ 3.MongoDB: create Database 
+              Database Name: dbtoysapi
               Collection Name: toys
  
  4. server
